@@ -8,4 +8,10 @@ layout: home
 
 Here is an image added to my website:
 
-![A descriptive caption](/assets/images/1.png)
+![A descriptive caption](/assets/images/1.jpg)
+
+### My Bokeh Visualization
+
+Here is an interactive Bokeh chart:
+
+<iframe src="/assets/bokeh/bokeh_plot.html" width="800" height="600"></iframe>
