@@ -4,3 +4,8 @@
 
 layout: home
 ---
+### My Static Image
+
+Here is an image added to my website:
+
+![A descriptive caption](/assets/images/1.png)
