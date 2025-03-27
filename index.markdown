@@ -52,7 +52,7 @@ Interestingly, preliminary data for 2024 and early 2025 shows a continued declin
 <br><br>
 </div>
 
-<iframe src="sf_larceny_district_bubbles.html" width="100%" height="800px" frameborder="0"></iframe>
+<iframe src="sf_larceny_district_bubbles.html" width="100%" height="700px" frameborder="0"></iframe>
 
 ## Where the Crimes Happen: A Look at San Francisco’s Districts
 
