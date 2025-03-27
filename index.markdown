@@ -1,12 +1,7 @@
 ---
 layout: page
-title: "The Rise and Fall of Larceny"
+title: "Theft in San Francisco: Unveiling the Patterns Behind the Crime Wave"
 permalink: /
----
-
-# The Rise and Fall of Larceny  
-### A Look at Theft Trends in San Francisco
-
 ---
 
 ## Introduction
