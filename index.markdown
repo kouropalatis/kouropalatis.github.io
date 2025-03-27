@@ -14,7 +14,7 @@ The dataset is publicly available and was downloaded from the City of San Franci
 <br>
 </div>
 
-<iframe src="Time Series.html" width="100%" height="750" frameborder="0"></iframe>
+<iframe src="Time Series.html" width="100%" height="700" frameborder="0"></iframe>
 <figcaption style="text-align:center;">Figure: Reported Larceny/Theft Trends in San Francisco</figcaption>
 
 <br><br>
@@ -52,7 +52,7 @@ Interestingly, preliminary data for 2024 and early 2025 shows a continued declin
 <br><br>
 </div>
 
-<iframe src="sf_larceny_district_bubbles.html" width="100%" height="700px" frameborder="0"></iframe>
+<iframe src="sf_larceny_district_bubbles.html" width="100%" height="750px" frameborder="0"></iframe>
 
 ## Where the Crimes Happen: A Look at San Francisco’s Districts
 
@@ -85,7 +85,7 @@ Understanding where theft happens is just as important as knowing when or how mu
     src="bokeh_larceny_hourly_by_district.html" 
     width="100%" 
     height="700px" 
-    style="border:none; overflow: hidden; display: block; margin: auto;">
+    style="border:none; display:block; margin:auto; max-width: 100%; overflow: hidden;">
 </iframe>
 
 <figcaption style="text-align: center; font-style: italic;">
