@@ -4,8 +4,6 @@ title: "Theft in San Francisco: Unveiling the Patterns Behind the Crime Wave"
 permalink: /
 ---
 
-## Introduction
-
 <div style="text-align: justify;">
 
 San Francisco is a city known for its cultural richness, scenic beauty, and iconic landmarks. Yet like any major urban center, it faces persistent challenges with crime. One of the most prevalent forms of crime in San Francisco has consistently been larceny/theft—a category that includes a wide range of offenses, from pickpocketing to shoplifting to stolen electronics.
@@ -13,7 +11,7 @@ San Francisco is a city known for its cultural richness, scenic beauty, and icon
 This story draws from a comprehensive dataset of police incident reports provided by the **San Francisco Police Department (SFPD)**. The dataset spans over two decades, from **2003 through early 2025**, and includes more than **1.7 million records** of reported crimes across the city. Each record details the type of crime, the time and location it occurred, and its resolution status. For this analysis, we focused specifically on incidents categorized as **larceny/theft**, the most commonly reported crime in the dataset.
 
 The dataset is publicly available and was downloaded from the City of San Francisco's open data portal at [San Francisco Open Data Portal](https://data.sfgov.org/browse?category=Public+Safety&sortBy=relevance&page=1&pageSize=20), which provides access to a variety of government-maintained data for public research and transparency.
-
+<br>
 </div>
 
 <iframe src="Time Series.html" width="100%" height="700" frameborder="0"></iframe>
@@ -49,6 +47,7 @@ Following the pandemic's most severe restrictions, larceny/theft began to reboun
 
 Interestingly, preliminary data for 2024 and early 2025 shows a continued decline. While it’s too early to determine whether this drop will continue, it may suggest changes in enforcement, urban movement, or even economic conditions that are dampening theft.
 
+<br><br>
 </div>
 
 <iframe src="sf_larceny_district_bubbles.html" width="100%" height="600px" frameborder="0"></iframe>
@@ -69,6 +68,7 @@ This spatial consistency suggests that if the city wants to reduce theft, it nee
 
 Understanding where theft happens is just as important as knowing when or how much. This kind of insight turns raw data into something actionable—and hopefully, something preventable.
 
+<br><br>
 </div>
 
 ## Crime by Hour: Stacked Bar Chart
@@ -76,7 +76,7 @@ Understanding where theft happens is just as important as knowing when or how mu
 <iframe 
     src="bokeh_larceny_hourly_by_district.html" 
     width="100%" 
-    height="900px" 
+    height="700px" 
     style="border:none; overflow: hidden; display: block; margin: auto;">
 </iframe>
 
@@ -84,34 +84,23 @@ Understanding where theft happens is just as important as knowing when or how mu
   Figure: Relative frequency of different crime types by hour (2014–2024)
 </figcaption>
 
-## The Clock of Crime: How Timing Shapes Criminal Activity in San Francisco
+Every Crime Has Its Hour
 
 <div style="text-align: justify;">
 
-While the neighborhoods most affected by larceny and theft have remained largely consistent—centered around busy downtown districts like Southern, Central, and Northern—**timing** adds another layer to understanding how crime plays out in San Francisco.
+While much of the crime analysis focuses on annual or monthly trends, a closer look at the hourly rhythm of theft reveals a fascinating layer of insight. Using data from 2014 to 2024, the interactive Bokeh visualization shows how larceny/theft incidents fluctuate hour by hour across San Francisco’s police districts.
 
-An interactive stacked bar chart built with Bokeh, using a decade’s worth of data (2014–2024), reveals an important insight: **different types of crimes follow different daily rhythms.** Just as some districts experience more theft than others, certain hours of the day are far more active depending on the crime category.
+Theft doesn’t sleep—but it does rest. During the early morning hours (midnight to 6 AM), incidents are relatively low across all districts. As the city wakes up, theft activity begins to rise, climbing sharply after 9 AM and often peaking in the afternoon hours.
+
+The most active districts—Central, Southern, and Tenderloin—show this pattern most clearly. These are dense, busy areas where foot traffic, retail activity, and tourism converge. Conversely, quieter residential districts like Richmond, Ingleside, and Park see gentler slopes in their daily crime curves, indicating fewer theft opportunities throughout the day.
 
 </div>
 
-### Every Crime Has Its Hour
+Timing Is Strategy
 
 <div style="text-align: justify;">
+This hour-by-hour view highlights the importance of timing in crime prevention. It’s not just about where crimes occur—it’s about when they’re most likely to happen. Understanding these temporal patterns helps city agencies think tactically: more patrols during peak hours, targeted awareness campaigns in theft-prone districts, and smart urban design that discourages opportunistic behavior during known high-risk periods.
 
-Crimes like **larceny/theft** and **vehicle theft** are most common during the **daytime hours**, particularly late mornings to early afternoons. These are the hours when San Francisco’s commercial zones are buzzing—offices are open, shoppers fill the streets, and vehicles are parked curbside, often unattended.
-
-By contrast, **robbery** and **assault** increase in the **evening**, typically peaking between **8 PM and midnight**. This aligns with when nightlife, public transit, and pedestrian activity are at their highest. These crimes often involve confrontation and occur in more crowded, high-energy settings.
-
-Then there are the **late-night hours**—often the quietest for most residents but busiest for crimes like **prostitution** and **vandalism**, which tend to spike after midnight. With fewer witnesses around, these crimes often go unnoticed until the next morning.
-
-</div>
-
-### Timing Is Strategy
-
-<div style="text-align: justify;">
-
-Just like geography, **timing shapes opportunity**. Criminals are influenced by patterns in public behavior—when people shop, drive, socialize, or sleep. This insight is more than just interesting data; it’s a potential roadmap for how the city can better **allocate policing resources**, improve **lighting and surveillance** in key areas, or launch **targeted community campaigns** around crime awareness at certain times of day.
-
-Understanding **when** crimes happen complements the knowledge of **where** they occur. Together, these patterns help turn abstract data into actionable strategies—ones that could make San Francisco not only smarter, but safer.
+By pairing this time-based insight with geographic data, San Francisco gains a powerful toolset for proactive policing and community planning. Crime is a moving target—but even it follows a schedule.
 
 </div>
