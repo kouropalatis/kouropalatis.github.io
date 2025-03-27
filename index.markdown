@@ -10,11 +10,11 @@ San Francisco is a city known for its cultural richness, scenic beauty, and icon
 
 This story draws from a comprehensive dataset of police incident reports provided by the **San Francisco Police Department (SFPD)**. The dataset spans over two decades, from **2003 through early 2025**, and includes more than **1.7 million records** of reported crimes across the city. Each record details the type of crime, the time and location it occurred, and its resolution status. For this analysis, we focused specifically on incidents categorized as **larceny/theft**, the most commonly reported crime in the dataset.
 
-The dataset is publicly available and was downloaded from the City of San Francisco's open data portal at [San Francisco Open Data Portal](https://data.sfgov.org/browse?category=Public+Safety&sortBy=relevance&page=1&pageSize=20), which provides access to a variety of government-maintained data for public research and transparency.
+The dataset is publicly available and was downloaded from the City of San Francisco's open data portal at San Francisco Open Data Portal, which provides access to a variety of government-maintained data for public research and transparency.
 <br>
 </div>
 
-<iframe src="Time Series.html" width="100%" height="700" frameborder="0"></iframe>
+<iframe src="Time Series.html" width="100%" height="750" frameborder="0"></iframe>
 <figcaption style="text-align:center;">Figure: Reported Larceny/Theft Trends in San Francisco</figcaption>
 
 <br><br>
