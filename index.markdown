@@ -46,7 +46,7 @@ Interestingly, preliminary data for 2024 and early 2025 shows a continued declin
 
 ## Where the Crimes Happen: A Look at San Francisco’s Districts
 
--While the overall number of larceny/theft cases in San Francisco has shifted over the years, not all neighborhoods have been affected equally. An interactive map of the city, built using the full dataset of theft incidents, paints a clear picture: some districts have consistently seen far more crime than others.
+While the overall number of larceny/theft cases in San Francisco has shifted over the years, not all neighborhoods have been affected equally. An interactive map of the city, built using the full dataset of theft incidents, paints a clear picture: some districts have consistently seen far more crime than others.
 
 The largest bubbles on the map—representing the highest number of incidents—appear in downtown areas like Southern, Central, and Northern districts. These zones are the commercial heart of San Francisco, packed with retail stores, public transportation hubs, and tourist attractions. It’s here that the opportunities for theft are greatest, and where the majority of incidents are reported.
 
@@ -57,4 +57,5 @@ What this tells us is that geography matters. Even though the overall crime tren
 This spatial consistency suggests that if the city wants to reduce theft, it needs to focus efforts in these high-density zones—through better lighting, more visible policing, community awareness, or technology-based solutions like surveillance and smart reporting tools.
 
 Understanding where theft happens is just as important as knowing when or how much. This kind of insight turns raw data into something actionable—and hopefully, something preventable
+
 ---
