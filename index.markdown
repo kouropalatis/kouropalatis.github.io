@@ -73,7 +73,12 @@ Understanding where theft happens is just as important as knowing when or how mu
 
 ## Crime by Hour: Stacked Bar Chart
 
-<iframe src="bokeh_larceny_hourly_by_district.html" width="100%" height="700px" frameborder="0"></iframe>
+<iframe 
+    src="bokeh_stacked_bar_crime_by_hour.html" 
+    width="100%" 
+    height="900px" 
+    style="border:none; overflow: hidden; display: block; margin: auto;">
+</iframe>
 
 <figcaption style="text-align: center; font-style: italic;">
   Figure: Relative frequency of different crime types by hour (2014–2024)
@@ -87,7 +92,11 @@ While the neighborhoods most affected by larceny and theft have remained largely
 
 An interactive stacked bar chart built with Bokeh, using a decade’s worth of data (2014–2024), reveals an important insight: **different types of crimes follow different daily rhythms.** Just as some districts experience more theft than others, certain hours of the day are far more active depending on the crime category.
 
+</div>
+
 ### Every Crime Has Its Hour
+
+<div style="text-align: justify;">
 
 Crimes like **larceny/theft** and **vehicle theft** are most common during the **daytime hours**, particularly late mornings to early afternoons. These are the hours when San Francisco’s commercial zones are buzzing—offices are open, shoppers fill the streets, and vehicles are parked curbside, often unattended.
 
@@ -95,7 +104,11 @@ By contrast, **robbery** and **assault** increase in the **evening**, typically 
 
 Then there are the **late-night hours**—often the quietest for most residents but busiest for crimes like **prostitution** and **vandalism**, which tend to spike after midnight. With fewer witnesses around, these crimes often go unnoticed until the next morning.
 
+</div>
+
 ### Timing Is Strategy
+
+<div style="text-align: justify;">
 
 Just like geography, **timing shapes opportunity**. Criminals are influenced by patterns in public behavior—when people shop, drive, socialize, or sleep. This insight is more than just interesting data; it’s a potential roadmap for how the city can better **allocate policing resources**, improve **lighting and surveillance** in key areas, or launch **targeted community campaigns** around crime awareness at certain times of day.
 
