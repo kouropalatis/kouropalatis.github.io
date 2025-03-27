@@ -26,5 +26,3 @@ exclude:
 # Navigation links for top-right menu
 header_pages:
   - index.markdown
-  - about.markdown
-  - bokeh.markdown
