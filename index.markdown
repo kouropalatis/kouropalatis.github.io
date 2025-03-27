@@ -71,7 +71,6 @@ Understanding where theft happens is just as important as knowing when or how mu
 
 </div>
 
-
 ## Crime by Hour: Stacked Bar Chart
 
 <iframe src="bokeh_stacked_bar_crime_by_hour.html" width="100%" height="700px" frameborder="0"></iframe>
@@ -88,8 +87,6 @@ While the neighborhoods most affected by larceny and theft have remained largely
 
 An interactive stacked bar chart built with Bokeh, using a decade’s worth of data (2014–2024), reveals an important insight: **different types of crimes follow different daily rhythms.** Just as some districts experience more theft than others, certain hours of the day are far more active depending on the crime category.
 
----
-
 ### Every Crime Has Its Hour
 
 Crimes like **larceny/theft** and **vehicle theft** are most common during the **daytime hours**, particularly late mornings to early afternoons. These are the hours when San Francisco’s commercial zones are buzzing—offices are open, shoppers fill the streets, and vehicles are parked curbside, often unattended.
@@ -97,8 +94,6 @@ Crimes like **larceny/theft** and **vehicle theft** are most common during the *
 By contrast, **robbery** and **assault** increase in the **evening**, typically peaking between **8 PM and midnight**. This aligns with when nightlife, public transit, and pedestrian activity are at their highest. These crimes often involve confrontation and occur in more crowded, high-energy settings.
 
 Then there are the **late-night hours**—often the quietest for most residents but busiest for crimes like **prostitution** and **vandalism**, which tend to spike after midnight. With fewer witnesses around, these crimes often go unnoticed until the next morning.
-
----
 
 ### Timing Is Strategy
 
