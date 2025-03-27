@@ -12,7 +12,11 @@ This story draws from a comprehensive dataset of police incident reports provide
 
 The dataset is publicly available and was downloaded from the City of San Francisco's open data portal at [data.sfgov.org](https://data.sfgov.org/browse?category=Public+Safety&sortBy=relevance&page=1&pageSize=20), which provides access to a variety of government-maintained data for public research and transparency.
 
-<iframe src="Time Series.html" width="100%" height="600px" style="border:none;"></iframe>
+<figure>
+  <img src="images/larceny_trend.png" alt="Larceny trend over time" width="100%">
+  <figcaption>Figure 1: Reported larceny/theft incidents in San Francisco from 2003–2025.</figcaption>
+</figure>
+
 ---
 
 ## A Decade of Climbing Crime
