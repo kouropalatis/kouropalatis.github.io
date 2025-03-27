@@ -74,7 +74,7 @@ Understanding where theft happens is just as important as knowing when or how mu
 ## Crime by Hour: Stacked Bar Chart
 
 <iframe 
-    src="bokeh_stacked_bar_crime_by_hour.html" 
+    src="bokeh_larceny_hourly_by_district.html" 
     width="100%" 
     height="900px" 
     style="border:none; overflow: hidden; display: block; margin: auto;">
