@@ -54,8 +54,6 @@ Interestingly, preliminary data for 2024 and early 2025 shows a continued declin
 
 <iframe src="sf_larceny_district_bubbles.html" width="100%" height="800px" frameborder="0"></iframe>
 
-<br><br>
-
 ## Where the Crimes Happen: A Look at San Francisco’s Districts
 
 <div style="text-align: justify;">
@@ -86,7 +84,7 @@ Understanding where theft happens is just as important as knowing when or how mu
 <iframe 
     src="bokeh_larceny_hourly_by_district.html" 
     width="100%" 
-    height="500px" 
+    height="700px" 
     style="border:none; overflow: hidden; display: block; margin: auto;">
 </iframe>
 
