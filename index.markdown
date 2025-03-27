@@ -42,10 +42,25 @@ Following the pandemic's most severe restrictions, larceny/theft began to reboun
 
 Interestingly, preliminary data for 2024 and early 2025 shows a continued decline. While it’s too early to determine whether this drop will continue, it may suggest changes in enforcement, urban movement, or even economic conditions that are dampening theft.
 
+## Larceny/Theft in San Francisco by Police District
+
+<iframe src="sf_larceny_district_bubbles.html" width="100%" height="700px" style="border:none;"></iframe>
+
+### Key Insights
+
+- **Bubble Size = Crime Intensity**  
+  Each bubble represents a San Francisco police district. The larger the bubble, the more larceny/theft incidents reported in that area.
+
+- **Downtown Areas Are Crime Hotspots**  
+  Districts like **Southern**, **Central**, and **Northern** show the largest bubbles, indicating high rates of theft in busy commercial and tourist zones.
+
+- **Quieter Neighborhoods Show Lower Theft**  
+  Smaller bubbles in areas like **Taraval** and **Richmond** suggest fewer incidents, likely due to lower foot traffic and more residential settings.
+
+- **Visual Comparison Made Easy**  
+  This map makes it simple to compare theft rates across neighborhoods at a glance, providing a clear visual story of where crime tends to concentrate.
+
+- **Patterns with Policy Potential**  
+  City planners and law enforcement can use insights like these to target resources, increase patrols, or invest in community-based prevention strategies.
+
 ---
-
-## Why This Matters
-
-Larceny/theft is not just about missing phones or broken car windows—it represents the public’s everyday experience with crime. Trends in theft tell a broader story about how life in a city shifts in response to both internal dynamics and external forces.
-
-By tracking how larceny/theft has risen, fallen, and partially rebounded over time, we gain insights into how a city like San Francisco adapts, struggles, and recovers. This story is a reminder of the power of data to show not just where we are, but where we’ve been—and possibly where we’re headed.
