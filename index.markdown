@@ -42,9 +42,7 @@ Following the pandemic's most severe restrictions, larceny/theft began to reboun
 
 Interestingly, preliminary data for 2024 and early 2025 shows a continued decline. While it’s too early to determine whether this drop will continue, it may suggest changes in enforcement, urban movement, or even economic conditions that are dampening theft.
 
-## Larceny/Theft in San Francisco by Police District
-
-<iframe src="sf_larceny_district_bubbles.html" width="100%" height="700px" style="border:none;"></iframe>
+<iframe src="sf_larceny_district_bubbles.html" width="100%" height="600px" frameborder="0"></iframe>
 
 ### Key Insights
 
