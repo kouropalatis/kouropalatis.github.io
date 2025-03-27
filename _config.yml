@@ -22,3 +22,9 @@ exclude:
   - vendor
   - .bundle
   - .sass-cache
+
+# Navigation links for top-right menu
+header_pages:
+  - index.md
+  - about.md
+  - bokeh.md
