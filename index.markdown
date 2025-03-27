@@ -17,6 +17,8 @@ The dataset is publicly available and was downloaded from the City of San Franci
 <iframe src="Time Series.html" width="100%" height="700" frameborder="0"></iframe>
 <figcaption style="text-align:center;">Figure: Reported Larceny/Theft Trends in San Francisco</figcaption>
 
+<br><br>
+
 ## A Decade of Climbing Crime
 
 <div style="text-align: justify;">
@@ -50,7 +52,9 @@ Interestingly, preliminary data for 2024 and early 2025 shows a continued declin
 <br><br>
 </div>
 
-<iframe src="sf_larceny_district_bubbles.html" width="100%" height="600px" frameborder="0"></iframe>
+<iframe src="sf_larceny_district_bubbles.html" width="100%" height="800px" frameborder="0"></iframe>
+
+<br><br>
 
 ## Where the Crimes Happen: A Look at San Francisco’s Districts
 
@@ -58,11 +62,17 @@ Interestingly, preliminary data for 2024 and early 2025 shows a continued declin
 
 While the overall number of larceny/theft cases in San Francisco has shifted over the years, not all neighborhoods have been affected equally. An interactive map of the city, built using the full dataset of theft incidents, paints a clear picture: some districts have consistently seen far more crime than others.
 
+<br>
+
 The largest bubbles on the map—representing the highest number of incidents—appear in downtown areas like Southern, Central, and Northern districts. These zones are the commercial heart of San Francisco, packed with retail stores, public transportation hubs, and tourist attractions. It’s here that the opportunities for theft are greatest, and where the majority of incidents are reported.
 
 By contrast, quieter residential districts such as Richmond, Taraval, and Park show significantly smaller bubbles. These areas are more spread out, less commercialized, and often more community-oriented. Fewer crowds mean fewer targets—and fewer chances for crimes like pickpocketing, shoplifting, or smash-and-grab thefts.
 
+<br>
+
 What this tells us is that geography matters. Even though the overall crime trend has changed over time—with a rise leading into 2018, a pandemic-era drop in 2020, and a slow rebound afterward—the hotspots for theft have remained largely the same. Downtown stays at the center of it all.
+
+<br>
 
 This spatial consistency suggests that if the city wants to reduce theft, it needs to focus efforts in these high-density zones—through better lighting, more visible policing, community awareness, or technology-based solutions like surveillance and smart reporting tools.
 
@@ -76,7 +86,7 @@ Understanding where theft happens is just as important as knowing when or how mu
 <iframe 
     src="bokeh_larceny_hourly_by_district.html" 
     width="100%" 
-    height="700px" 
+    height="500px" 
     style="border:none; overflow: hidden; display: block; margin: auto;">
 </iframe>
 
@@ -84,7 +94,9 @@ Understanding where theft happens is just as important as knowing when or how mu
   Figure: Relative frequency of different crime types by hour (2014–2024)
 </figcaption>
 
-Every Crime Has Its Hour
+<br><br>
+
+## Every Crime Has Its Hour
 
 <div style="text-align: justify;">
 
@@ -96,9 +108,10 @@ The most active districts—Central, Southern, and Tenderloin—show this patter
 
 </div>
 
-Timing Is Strategy
+## Timing Is Strategy
 
 <div style="text-align: justify;">
+
 This hour-by-hour view highlights the importance of timing in crime prevention. It’s not just about where crimes occur—it’s about when they’re most likely to happen. Understanding these temporal patterns helps city agencies think tactically: more patrols during peak hours, targeted awareness campaigns in theft-prone districts, and smart urban design that discourages opportunistic behavior during known high-risk periods.
 
 By pairing this time-based insight with geographic data, San Francisco gains a powerful toolset for proactive policing and community planning. Crime is a moving target—but even it follows a schedule.
