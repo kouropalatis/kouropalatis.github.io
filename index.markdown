@@ -73,7 +73,7 @@ Understanding where theft happens is just as important as knowing when or how mu
 
 ## Crime by Hour: Stacked Bar Chart
 
-<iframe src="bokeh_stacked_bar_crime_by_hour.html" width="100%" height="700px" frameborder="0"></iframe>
+<iframe src="bokeh_larceny_hourly_by_district.html" width="100%" height="700px" frameborder="0"></iframe>
 
 <figcaption style="text-align: center; font-style: italic;">
   Figure: Relative frequency of different crime types by hour (2014–2024)
