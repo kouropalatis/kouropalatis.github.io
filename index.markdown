@@ -44,21 +44,17 @@ Interestingly, preliminary data for 2024 and early 2025 shows a continued declin
 
 <iframe src="sf_larceny_district_bubbles.html" width="100%" height="600px" frameborder="0"></iframe>
 
-### Key Insights
+## Where the Crimes Happen: A Look at San Francisco’s Districts
 
-- **Bubble Size = Crime Intensity**  
-  Each bubble represents a San Francisco police district. The larger the bubble, the more larceny/theft incidents reported in that area.
+-While the overall number of larceny/theft cases in San Francisco has shifted over the years, not all neighborhoods have been affected equally. An interactive map of the city, built using the full dataset of theft incidents, paints a clear picture: some districts have consistently seen far more crime than others.
 
-- **Downtown Areas Are Crime Hotspots**  
-  Districts like **Southern**, **Central**, and **Northern** show the largest bubbles, indicating high rates of theft in busy commercial and tourist zones.
+The largest bubbles on the map—representing the highest number of incidents—appear in downtown areas like Southern, Central, and Northern districts. These zones are the commercial heart of San Francisco, packed with retail stores, public transportation hubs, and tourist attractions. It’s here that the opportunities for theft are greatest, and where the majority of incidents are reported.
 
-- **Quieter Neighborhoods Show Lower Theft**  
-  Smaller bubbles in areas like **Taraval** and **Richmond** suggest fewer incidents, likely due to lower foot traffic and more residential settings.
+By contrast, quieter residential districts such as Richmond, Taraval, and Park show significantly smaller bubbles. These areas are more spread out, less commercialized, and often more community-oriented. Fewer crowds mean fewer targets—and fewer chances for crimes like pickpocketing, shoplifting, or smash-and-grab thefts.
 
-- **Visual Comparison Made Easy**  
-  This map makes it simple to compare theft rates across neighborhoods at a glance, providing a clear visual story of where crime tends to concentrate.
+What this tells us is that geography matters. Even though the overall crime trend has changed over time—with a rise leading into 2018, a pandemic-era drop in 2020, and a slow rebound afterward—the hotspots for theft have remained largely the same. Downtown stays at the center of it all.
 
-- **Patterns with Policy Potential**  
-  City planners and law enforcement can use insights like these to target resources, increase patrols, or invest in community-based prevention strategies.
+This spatial consistency suggests that if the city wants to reduce theft, it needs to focus efforts in these high-density zones—through better lighting, more visible policing, community awareness, or technology-based solutions like surveillance and smart reporting tools.
 
+Understanding where theft happens is just as important as knowing when or how much. This kind of insight turns raw data into something actionable—and hopefully, something preventable
 ---
